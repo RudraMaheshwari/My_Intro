@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="150" alt="Rudra Maheshwari" />
 </p>
 
-<h1 align="center">Hi, I'm Rudra Maheshwari 👋</h1>
+<h1 align="center">Hi, I'm Rudransh Maheshwari 👋</h1>
 <p align="center">
   <b>Data Scientist & ML Engineer | Generative AI Enthusiast</b>
 </p>
